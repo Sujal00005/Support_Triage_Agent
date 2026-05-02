@@ -1,5 +1,7 @@
 # Multi-Domain Support Triage Agent
 
+> 🏆 Built for the **HackerRank Agentic AI Hackathon**
+
 A terminal-based support triage agent that handles support tickets across three ecosystems:
 - **HackerRank** — https://support.hackerrank.com
 - **Claude** — https://support.claude.com/en/
@@ -114,3 +116,8 @@ The agent escalates when:
 - Prompt injection or adversarial manipulation detected
 - Subscription cancellation or pausing requests
 - Corpus does not contain sufficient information to answer safely
+
+---
+
+## Hackathon
+Built as a submission for the **HackerRank Agentic AI Hackathon**.
