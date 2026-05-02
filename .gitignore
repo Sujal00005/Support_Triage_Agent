@@ -1,0 +1,31 @@
+# API keys
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Generated outputs
+output.csv
+log.txt
+
+# Corpus (scraped data)
+corpus/
+
+# Hackathon input data
+support_tickets.csv
+sample_support_tickets.csv
+support_tickets/
+support_tickets.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac metadata
+._*
+.DS_Store
+
+# Zip artifacts
+code.zip
